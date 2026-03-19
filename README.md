@@ -75,26 +75,6 @@ The pipeline follows:
 
 ---
 
-## Repository Structure
-
-Codes/
-│── 1_data_prep.ipynb
-│── 2_Modeling.ipynb
-│── CC-final-visualizationcode.ipynb
-
-report/
-│── aws-appendicitis-prediction.pdf
-│── aws-appendicitis-prediction.pptx
-
-s3_bucket_outputs/
-│── data/
-│── models/
-│── results/
-│── visuals/
-
-
----
-
 ## Results & Key Findings
 
 - Best model: **Histogram Gradient Boosting Classifier**  
