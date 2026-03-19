@@ -2,9 +2,7 @@
 
 ## Authors
 
-- Abirham Getie  
-- Haeyeon Jeong  
-- Yonathan Shimelis  
+Abirham Getie | Haeyeon Jeong | Yonathan Shimelis  
 
 ---
 
